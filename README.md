@@ -1,2 +1,2 @@
 # Projects
-Web development projects for hobby purposes made by me.
+Visual Basic, C# and C++ projects made by me. These softwares are free to use.
