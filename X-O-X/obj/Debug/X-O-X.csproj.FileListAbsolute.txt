@@ -1,4 +1,0 @@
-C:\Users\ERDEM\Documents\Visual Studio 2008\Projects\SDKSample_CS\X-O-X\bin\Debug\X-O-X.exe
-C:\Users\ERDEM\Documents\Visual Studio 2008\Projects\SDKSample_CS\X-O-X\bin\Debug\X-O-X.pdb
-C:\Users\ERDEM\Documents\Visual Studio 2008\Projects\SDKSample_CS\X-O-X\obj\Debug\X-O-X.exe
-C:\Users\ERDEM\Documents\Visual Studio 2008\Projects\SDKSample_CS\X-O-X\obj\Debug\X-O-X.pdb
