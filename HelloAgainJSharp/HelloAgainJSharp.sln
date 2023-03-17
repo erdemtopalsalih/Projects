@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{E6FDF86B-F3D1-11D4-8576-0002A516ECE8}") = "HelloAgainJSharp", "HelloAgainJSharp\HelloAgainJSharp.vjsproj", "{81910F29-F49F-4B3E-8B40-80F9A6B4EB2B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{81910F29-F49F-4B3E-8B40-80F9A6B4EB2B}.Debug|x86.ActiveCfg = Debug|x86
+		{81910F29-F49F-4B3E-8B40-80F9A6B4EB2B}.Debug|x86.Build.0 = Debug|x86
+		{81910F29-F49F-4B3E-8B40-80F9A6B4EB2B}.Release|x86.ActiveCfg = Release|x86
+		{81910F29-F49F-4B3E-8B40-80F9A6B4EB2B}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

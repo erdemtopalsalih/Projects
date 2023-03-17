@@ -1,0 +1,98 @@
+package HelloAgainJSharp;
+
+import System.Collections.Generic.*;
+import System.Data.*;
+import System.Drawing.*;
+import System.ComponentModel.*;
+import System.Windows.Forms.*;
+
+/**
+ * Summary description for Form1.
+ */
+public class Form1 extends System.Windows.Forms.Form
+{
+	private Button button1;
+	private Label label1;
+	/**
+	 * Required designer variable.
+	 */
+	private System.ComponentModel.IContainer components;
+
+	public Form1()
+	{
+		//
+		// Required for Windows Form Designer support
+		//
+		InitializeComponent();
+
+		//
+		// TODO: Add any constructor code after InitializeComponent call
+		//
+	}
+
+	#region Windows Form Designer generated code
+	/**
+     * Clean up any resources being used.
+     */
+	protected void Dispose(boolean disposing)
+	{
+		if (disposing)
+		{
+			if (components != null)
+			{
+				components.Dispose();
+			}
+		}
+		super.Dispose(disposing);
+	}
+
+	/**
+	 * Required method for Designer support - do not modify
+	 * the contents of this method with the code editor.
+	 */
+	private void InitializeComponent()
+	{
+		this.button1 = new System.Windows.Forms.Button();
+		this.label1 = new System.Windows.Forms.Label();
+		this.SuspendLayout();
+		// 
+		// button1
+		// 
+		this.button1.set_Location(new System.Drawing.Point(105, 109));
+		this.button1.set_Name("button1");
+		this.button1.set_Size(new System.Drawing.Size(75, 23));
+		this.button1.set_TabIndex(0);
+		this.button1.set_Text("Say \"Hello\"");
+		this.button1.set_UseVisualStyleBackColor(true);
+		this.button1.add_Click(new System.EventHandler(this.button1_Click));
+		// 
+		// label1
+		// 
+		this.label1.set_AutoSize(true);
+		this.label1.set_Font(new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((ubyte)162)));
+		this.label1.set_Location(new System.Drawing.Point(3, 9));
+		this.label1.set_Name("label1");
+		this.label1.set_Size(new System.Drawing.Size(269, 21));
+		this.label1.set_TabIndex(1);
+		this.label1.set_Text("Prepare for unforeseen consequences");
+		// 
+		// Form1
+		// 
+		this.set_AutoScaleDimensions(new System.Drawing.SizeF(6F, 13F));
+		this.set_AutoScaleMode(System.Windows.Forms.AutoScaleMode.Font);
+		this.set_ClientSize(new System.Drawing.Size(284, 261));
+		this.get_Controls().Add(this.label1);
+		this.get_Controls().Add(this.button1);
+		this.set_Name("Form1");
+		this.set_Text("Erdem Topalsalih");
+		this.ResumeLayout(false);
+		this.PerformLayout();
+
+	}
+	#endregion
+
+	private void button1_Click(Object sender, System.EventArgs e)
+	{
+		MessageBox.Show("Hello again, J#");
+	}
+}
