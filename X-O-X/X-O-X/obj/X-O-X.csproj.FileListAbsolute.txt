@@ -1,5 +1,0 @@
-C:\Users\Erdem\Documents\Visual Studio 2005\Projects\X-O-X\X-O-X\bin\Debug\X-O-X.exe
-C:\Users\Erdem\Documents\Visual Studio 2005\Projects\X-O-X\X-O-X\bin\Debug\X-O-X.pdb
-C:\Users\Erdem\Documents\Visual Studio 2005\Projects\X-O-X\X-O-X\obj\Debug\ResolveAssemblyReference.cache
-C:\Users\Erdem\Documents\Visual Studio 2005\Projects\X-O-X\X-O-X\obj\Debug\X-O-X.exe
-C:\Users\Erdem\Documents\Visual Studio 2005\Projects\X-O-X\X-O-X\obj\Debug\X-O-X.pdb
