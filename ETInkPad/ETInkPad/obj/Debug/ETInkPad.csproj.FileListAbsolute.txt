@@ -1,0 +1,12 @@
+C:\Users\Erdem\Documents\Visual Studio 2008\Projects\ETInkPad\ETInkPad\bin\Debug\ETInkPad.exe
+C:\Users\Erdem\Documents\Visual Studio 2008\Projects\ETInkPad\ETInkPad\bin\Debug\ETInkPad.pdb
+C:\Users\Erdem\Documents\Visual Studio 2008\Projects\ETInkPad\ETInkPad\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Erdem\Documents\Visual Studio 2008\Projects\ETInkPad\ETInkPad\obj\Debug\Window1.baml
+C:\Users\Erdem\Documents\Visual Studio 2008\Projects\ETInkPad\ETInkPad\obj\Debug\Window1.g.cs
+C:\Users\Erdem\Documents\Visual Studio 2008\Projects\ETInkPad\ETInkPad\obj\Debug\App.g.cs
+C:\Users\Erdem\Documents\Visual Studio 2008\Projects\ETInkPad\ETInkPad\obj\Debug\ETInkPad_MarkupCompile.cache
+C:\Users\Erdem\Documents\Visual Studio 2008\Projects\ETInkPad\ETInkPad\obj\Debug\ETInkPad.g.resources
+C:\Users\Erdem\Documents\Visual Studio 2008\Projects\ETInkPad\ETInkPad\obj\Debug\ETInkPad.Properties.Resources.resources
+C:\Users\Erdem\Documents\Visual Studio 2008\Projects\ETInkPad\ETInkPad\obj\Debug\ETInkPad.csproj.GenerateResource.Cache
+C:\Users\Erdem\Documents\Visual Studio 2008\Projects\ETInkPad\ETInkPad\obj\Debug\ETInkPad.exe
+C:\Users\Erdem\Documents\Visual Studio 2008\Projects\ETInkPad\ETInkPad\obj\Debug\ETInkPad.pdb
