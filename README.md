@@ -1,2 +1,2 @@
 # Projects
-Windows based (and sometimes cross-platform) application projects made by me. These softwares are free to use.
+Windows and Linux based application projects made by me. These softwares and source files are free to use.
